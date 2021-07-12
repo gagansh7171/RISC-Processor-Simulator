@@ -5,6 +5,11 @@ Design a CPU including ALUs and Register files, the Control circuitry, Instructi
 ## Project Description
 We have designed a 32-Bit RISC inspired Processor with Von Neumann Architecture using Logisim. We have also developed an assembler in python which converts the assembly code into machine language.
 
+## Project Documentaion
+- [CPU Documentation](https://github.com/gagansh7171/RISC-Processor-Simulator/blob/master/RISC-R/documentation/cpudoc.md)
+- [Assembler Documentation](https://github.com/gagansh7171/RISC-Processor-Simulator/blob/master/RISC-R/documentation/assemblerdoc.md)
+- [Example Assembly Program](https://github.com/gagansh7171/RISC-Processor-Simulator/blob/master/RISC-R/programFilesIO/program.asm)
+
 ## Project Structure
 
 1. Detailed [Report](https://github.com/gagansh7171/RISC-Processor-Simulator/blob/master/Report.pdf) of the project.
