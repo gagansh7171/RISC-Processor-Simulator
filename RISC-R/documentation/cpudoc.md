@@ -10,7 +10,7 @@
 - Hardwired Control Unit
 
 ## Five Stage Pipeline
-![Pipeline](images/pipeline.png "Pipeline")	
+![Pipeline](../images/pipeline.png "Pipeline")	
 1. Instruction Fetch
 2. Instruction Decode, Increment Program Counter and Register Read
 3. ALU Operations
@@ -18,7 +18,7 @@
 5. Register Write
 ## Instruction Set
 ### Instruction Format
-![Instruction Format](images/format.png "Instruction Format")
+![Instruction Format](../images/format.png "Instruction Format")
 ### Register Instructions
  OpCode | Immediate Bit | Operation | RTN  
 ---  | :---:|:---:|:---:
@@ -56,22 +56,22 @@
 
 ## Components
 ### Main Circuit
-![CPU](images/cpu.png "CPU")
+![CPU](../images/cpu.png "CPU")
 
 -------
 
 ### Control Unit
-![Control Unit](images/cu.png "Control Unit")
+![Control Unit](../images/cu.png "Control Unit")
 
 ------
 
 ### Arithmetic Logic Unit
-![ALU](images/alu.png "Arithmetic Logic Unit")
+![ALU](../images/alu.png "Arithmetic Logic Unit")
 
 ------
 
 ### Register File
-![Register File](images/rfile.png "Register File")	
+![Register File](../images/rfile.png "Register File")	
 
 ------
 
