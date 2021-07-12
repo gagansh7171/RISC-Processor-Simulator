@@ -1,5 +1,5 @@
 # RISC-Processor-Simulator
-## Problem Statemnt
+## Problem Statement
 Design a CPU including ALUs and Register files, the Control circuitry, Instructions flow etc., on any simulator.
 
 ## Project Description
